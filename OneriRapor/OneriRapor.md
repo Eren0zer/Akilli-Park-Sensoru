@@ -23,22 +23,21 @@ Bu proje, ultrasonik sensör ile aracın mesafesini ölçerek sürücüye LED’
 
 ## 4️⃣ Kaynak Planlaması
 - **Ekip Üyeleri:**
-  - Elektronik Mühendisi: Devre tasarımı ve montaj. İlhan Emre Adak, Şevval Yavuz  
-  - Yazılım Geliştirici: ESP32 programlama ve MQTT entegrasyonu. 
-  - Proje Yöneticisi: Takım koordinasyonu ve dokümantasyon. 
+  - Elektronik Mühendisi: Devre tasarımı ve montaj.              ->  İlhan Emre Adak, Eren Özer  
+  - Yazılım Geliştirici: ESP32 programlama ve MQTT entegrasyonu. ->  Sıdıka Firat, Şevval Yavuz
+  - Proje Yöneticisi: Takım koordinasyonu ve dokümantasyon.      ->  Eren Özer
 
 ### 📋 Maliyet ve Ekipmanlar
 
 | Malzeme                          | Miktar  | Fiyat (₺)  |
 |----------------------------------|---------|------------|
-| ESP32 veya ESP8266               | 1       | 150        |
+| ESP32 veya ESP8266               | 1       | 270        |
 | HC-SR04 Ultrasonik Sensör        | 1       | 50         |
-| LED (Kırmızı/Sarı/Yeşil)         | 5       | 25         |
-| Buzzer                           | 1       | 20         |
-| Butonlar                         | 2       | 10         |
-| Dirençler                        | Çeşitli | 10         |
-| Breadboard ve Jumper Kabloları   | 1 Set   | 30         |
-| **Toplam Tahmini Maliyet**       | **-**   | **295₺**   |
+| LED (Kırmızı/Sarı/Yeşil)         | 5       | 10         |
+| Buzzer                           | 1       | 10         |
+| Dirençler                        | Çeşitli | 5          |
+| Breadboard ve Jumper Kabloları   | 1 Set   | 60         |
+| **Toplam Tahmini Maliyet**       | **-**   | **405₺**   |
 
 
 ## 5️⃣ Risk Analizi
@@ -55,14 +54,4 @@ Bu proje, ultrasonik sensör ile aracın mesafesini ölçerek sürücüye LED’
 - **Akıllı Şehir Projeleri:** Trafik akışını optimize etmek için veri toplayan sistemler.
 - **Otopark Yönetimi:** Araç park alanlarını optimize eden sistemlere entegrasyon.
 
-## 📷 Görseller
-![Bağlantı Şeması](Figure/diagram.png)
 
-## 📁 Dosya Yapısı
-```
-OneriRapor/
-│── OneriRapor.md
-│── Figure/
-│   ├── diagram.png
-│   ├── circuit.png
-```
