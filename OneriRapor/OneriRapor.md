@@ -29,17 +29,19 @@ Bu proje, ultrasonik sensör ile aracın mesafesini ölçerek sürücüye LED’
   - UI/UX Tasarımcısı: Kullanıcı arayüzü geliştirme.
   - Proje Yöneticisi: Takım koordinasyonu ve dokümantasyon.
 
-- **Maliyet ve Ekipmanlar:**
-| Malzeme | Miktar | Fiyat (₺) |
-|---------|--------|-----------|
-| ESP32 veya ESP8266 | 1 | 150 |
-| HC-SR04 Ultrasonik Sensör | 1 | 50 |
-| LED (Kırmızı/Sarı/Yeşil) | 5 | 25 |
-| Buzzer | 1 | 20 |
-| Butonlar | 2 | 10 |
-| Dirençler | Çeşitli | 10 |
-| Breadboard ve Jumper Kabloları | 1 Set | 30 |
-| **Toplam Tahmini Maliyet** | **295₺** |
+### 📋 Maliyet ve Ekipmanlar
+
+| Malzeme                          | Miktar  | Fiyat (₺)  |
+|----------------------------------|---------|------------|
+| ESP32 veya ESP8266               | 1       | 150        |
+| HC-SR04 Ultrasonik Sensör        | 1       | 50         |
+| LED (Kırmızı/Sarı/Yeşil)         | 5       | 25         |
+| Buzzer                           | 1       | 20         |
+| Butonlar                         | 2       | 10         |
+| Dirençler                        | Çeşitli | 10         |
+| Breadboard ve Jumper Kabloları   | 1 Set   | 30         |
+| **Toplam Tahmini Maliyet**       | **-**   | **295₺**   |
+
 
 ## 5️⃣ Risk Analizi
 | Risk Faktörü | Olasılık | Etki | Çözüm Önerisi |
