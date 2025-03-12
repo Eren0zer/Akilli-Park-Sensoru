@@ -79,9 +79,6 @@ AkilliParkSensörü/
 │   ├── circuit.png
 │── OneriRapor/
 │   ├── OneriRapor.md
-│   ├── Figure/
-│   │   ├── diagram.png
-│   │   ├── circuit.png
 │── AraRapor/
 │   ├── AraRapor.md
 │   ├── Figure/
