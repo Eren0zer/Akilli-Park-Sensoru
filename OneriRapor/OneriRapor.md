@@ -17,17 +17,15 @@ Bu proje, ultrasonik sensör ile aracın mesafesini ölçerek sürücüye LED’
 | Devre Tasarımı ve Donanım Montajı | 10 |
 | Yazılım Geliştirme (ESP32 Kodlama) | 14 |
 | IoT Entegrasyonu ve MQTT Testleri | 10 |
-| Kullanıcı Arayüzü Tasarımı | 7 |
 | Test ve Hata Giderme | 10 |
 | Raporlama ve Sunum Hazırlığı | 5 |
-| **Toplam Süre** | **63 Gün** |
+| **Toplam Süre** | **56 Gün** |
 
 ## 4️⃣ Kaynak Planlaması
 - **Ekip Üyeleri:**
-  - Elektronik Mühendisi: Devre tasarımı ve montaj.
-  - Yazılım Geliştirici: ESP32 programlama ve MQTT entegrasyonu.
-  - UI/UX Tasarımcısı: Kullanıcı arayüzü geliştirme.
-  - Proje Yöneticisi: Takım koordinasyonu ve dokümantasyon.
+  - Elektronik Mühendisi: Devre tasarımı ve montaj. İlhan Emre Adak, Şevval Yavuz  
+  - Yazılım Geliştirici: ESP32 programlama ve MQTT entegrasyonu. 
+  - Proje Yöneticisi: Takım koordinasyonu ve dokümantasyon. 
 
 ### 📋 Maliyet ve Ekipmanlar
 
