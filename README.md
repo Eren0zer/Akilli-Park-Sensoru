@@ -68,8 +68,6 @@ Bu proje MIT Lisansı altında sunulmaktadır.
 ## 📷 Görseller
 
 
-![Bağlantı Şeması](Figure/diagram.png)
-
 ## 📁 Dosya Yapısı
 ```
 AkilliParkSensörü/
