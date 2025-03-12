@@ -7,7 +7,6 @@ Bu proje, ultrasonik sensör ile aracın mesafesini ölçerek sürücüye LED’
 - **Gerçek Zamanlı Mesafe Ölçümü:** Ultrasonik sensör ile doğru mesafe tespiti.
 - **Sesli ve Görsel Uyarılar:** LED göstergeler ve buzzer ile sürücüye bildirim sağlamak.
 - **IoT Desteği:** MQTT üzerinden uzaktan erişim sağlamak.
-- **Kullanıcı Dostu Sistem:** İleri/geri vites modları ile dinamik LED sıralaması sunmak.
 - **Güvenli Park:** Kullanıcıya anlık bildirimler ile hatasız park imkanı sağlamak.
 
 ## 3️⃣ Tahmini Zaman Çizelgesi
