@@ -75,19 +75,13 @@ Bu proje MIT Lisansı altında sunulmaktadır.
 AkilliParkSensörü/
 │── README.md
 │── Figure/
-│   ├── diagram.png
-│   ├── circuit.png
 │── OneriRapor/
 │   ├── OneriRapor.md
 │── AraRapor/
 │   ├── AraRapor.md
 │   ├── Figure/
-│   │   ├── diagram.png
-│   │   ├── circuit.png
 │── FinalRapor/
 │   ├── FinalRapor.md
 │   ├── Figure/
-│   │   ├── diagram.png
-│   │   ├── circuit.png
 └── Codes/
 ```
