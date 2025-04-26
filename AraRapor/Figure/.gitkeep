@@ -1,0 +1,31 @@
+8. Yine **Commit new file** de.
+
+➔ Artık `AraRapor/Figure/` yolun da hazır!
+
+---
+
+# 📷 Fotoğrafları Yükleme
+
+- `AraRapor/Figure/` klasörüne git.
+- **Add file ➔ Upload files** de.
+- Bilgisayarından şu dosyaları yükle:
+  - `arduino_uno.jpg`
+  - `hc_sr04.jpg`
+  - `led_buzzer.jpg`
+  - `breadboard.jpg`
+  - `devre_kurulumu.jpg`
+  - `mesafe_test.jpg`
+  - `yakin_cekim.jpg`
+  - `devre_semasi.jpg`
+  - `sistem_test_videosu.mp4`
+
+---
+
+# 📜 Sonuç
+
+Senin `AraRapor.md` dosyanda yazdığın tüm linkler (`./Figure/xxx.jpg`) doğru çalışacak.  
+GitHub sayfanda her şey düzenli gözükecek.
+
+---
+
+✅ İstersen hemen ardından `.zip` dosyayı da nasıl yapabileceğini anlatırım (2 dakik
