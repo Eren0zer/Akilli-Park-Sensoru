@@ -41,7 +41,7 @@ Projenin bu aşamasında temel donanımsal altyapı oluşturulmuş ve sistemin i
 
 | Devre Şeması |
 |:------------:|
-| ![Devre Şeması](./Figure/devre_semasi.jpg) |
+| ![Devre Şeması](./Figure/Sema.jpg) |
 
 ### 4.3 Proje Fotoğrafları
 
