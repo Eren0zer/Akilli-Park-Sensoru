@@ -29,12 +29,13 @@ Projenin bu aşamasında temel donanımsal altyapı oluşturulmuş ve sistemin i
 
 ### 4.1 Kullanılan Parçalar
 
-| Parça | Görsel |
-|:-----|:------:|
-| Arduino Uno | ![Arduino Uno](./Figure/arduino_uno.jpg) |
-| HC-SR04 Ultrasonik Sensör | ![HC-SR04](./Figure/hc_sr04.jpg) |
-| LED'ler ve Buzzer | ![LED ve Buzzer](./Figure/led_buzzer.jpg) |
-| Breadboard ve Jumper Kablolar | ![Breadboard](./Figure/breadboard.jpg) |
+| Parça | Görsel | Parça | Görsel |
+|:-----|:------:|:-----|:------:|
+| Arduino Uno | ![Arduino Uno](./Figure/arduino-uno.jpg) | Mesafe Sensörü (HC-SR04) | ![Mesafe Sensörü](./Figure/Mesafe_Sensörü.jpg) |
+| Kırmızı LED | ![Kırmızı LED](./Figure/Kırmızı_Led.jpg) | Buzzer | ![Buzzer](./Figure/Buzzer.jpg) |
+| Direnç | ![Direnç](./Figure/Direnc.jpg) | Breadboard | ![Breadboard](./Figure/Breadboard.jpg) |
+| Jumper Kablolar | ![Jumper Kablo](./Figure/Jumper_kablo.jpg) |  |  |
+
 
 ### 4.2 Devre Şeması
 
@@ -44,9 +45,10 @@ Projenin bu aşamasında temel donanımsal altyapı oluşturulmuş ve sistemin i
 
 ### 4.3 Proje Fotoğrafları
 
-| Sistem Kurulumu | Test Anı | Yakın Çekim |
-|:---------------:|:--------:|:-----------:|
-| ![Devre Kurulumu](./Figure/devre_kurulumu.jpg) | ![Çalışma Testi](./Figure/mesafe_test.jpg) | ![Yakın Çekim](./Figure/yakin_cekim.jpg) |
+| Sistem Kurulum 1 | Sistem Kurulum 2 | Sistem Kurulum 3 | Sistem Kurulum 4 |
+|:----------------:|:----------------:|:----------------:|:----------------:|
+| ![Sistem Kurulum 1](./Figure/Sistem_kurulum1.jpg) | ![Sistem Kurulum 2](./Figure/Sistem_kurulum2.jpg) | ![Sistem Kurulum 3](./Figure/Sistem_kurulum3.jpg) | ![Sistem Kurulum 4](./Figure/Sistem_kurulum4.jpg) |
+
 
 ### 4.4 Çalışır Sistem Videosu
 
@@ -98,14 +100,19 @@ Bu proje, düşük maliyetli ve basit montaj imkanı sunan yapısı sayesinde ti
 AraRapor/
 │── AraRapor.md
 │── Figure/
-│   ├── arduino_uno.jpg
-│   ├── hc_sr04.jpg
-│   ├── led_buzzer.jpg
-│   ├── breadboard.jpg
-│   ├── devre_kurulumu.jpg
-│   ├── mesafe_test.jpg
-│   ├── yakin_cekim.jpg
+│   ├── arduino-uno.jpg
+│   ├── Mesafe_Sensörü.jpg
+│   ├── Kırmızı_Led.jpg
+│   ├── Buzzer.jpg
+│   ├── Direnc.jpg
+│   ├── Breadboard.jpg
+│   ├── Jumper_kablo.jpg
+│   ├── Sistem_kurulum1.jpg
+│   ├── Sistem_kurulum2.jpg
+│   ├── Sistem_kurulum3.jpg
+│   ├── Sistem_kurulum4.jpg
 │   ├── devre_semasi.jpg
-│   ├── sistem_test_videosu.mp4
+
+
 ```
 
