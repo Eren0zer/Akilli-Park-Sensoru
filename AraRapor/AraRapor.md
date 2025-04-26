@@ -112,6 +112,7 @@ AraRapor/
 │   ├── Sistem_kurulum3.jpg
 │   ├── Sistem_kurulum4.jpg
 │   ├── devre_semasi.jpg
+│   ├── Sema.jpg
 
 
 ```
