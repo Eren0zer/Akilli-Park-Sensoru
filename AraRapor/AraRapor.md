@@ -1,11 +1,18 @@
 # 📌 Akıllı Park Sensörü - Ara Raporu
 
-## 1. Proje Konusu (Kısa)
+## Grup Bilgileri
+**Grup 1**  
+İlhan Emre Adak  
+Sıdıka Firat  
+Eren Özer  
+Şevval Yavuz
+<br><br>
+## 1. Proje Konusu
 
 Günümüz araç güvenlik sistemleri, sürücülerin park ve manevra işlemlerinde desteklenmesi amacıyla çeşitli sensör ve kamera teknolojilerinden yararlanmaktadır. Bu kapsamda geliştirilen proje, ultrasonik sensör aracılığıyla aracın çevresindeki mesafelerin tespit edilmesini ve sürücüye hem görsel (LED) hem de işitsel (buzzer) uyarılar sunulmasını amaçlamaktadır. Bunun yanı sıra, ilerleyen aşamalarda ESP32-CAM modülü kullanılarak aracın bulunduğu ortamın görüntüsünün alınması ve bu görüntünün kablosuz iletişim yoluyla aktarılması hedeflenmektedir. Böylelikle kullanıcıya yalnızca mesafe değil, aynı zamanda çevresel durum hakkında da anlık bilgi sunularak, sistemin işlevselliği artırılacaktır.
 <br><br>
 
-## 2. Özet (Kısa)
+## 2. Özet
 
 Projenin bu aşamasında temel donanımsal altyapı oluşturulmuş ve sistemin ilk işlevsellik testleri başarıyla tamamlanmıştır. Arduino Uno geliştirme kartı kullanılarak HC-SR04 ultrasonik sensörü ile cismin uzaklığı ölçülmüş; ölçüm sonuçlarına göre farklı renklerde LED’lerin (yeşil, sarı, kırmızı) yanması ve belirli kritik eşik değerlerinde buzzer’ın devreye girerek sürücüye sesli uyarı vermesi sağlanmıştır. Bu yapı, sürücünün çevresel mesafeleri algılayarak daha güvenli park ve manevra yapmasını desteklemek amacıyla tasarlanmıştır.
 <br><br>
@@ -43,9 +50,9 @@ Projenin bu aşamasında temel donanımsal altyapı oluşturulmuş ve sistemin i
 
 ### 4.4 Çalışır Sistem Videosu
 
-📹 [Sistem Çalışma Videosu (İzlemek için tıklayın)](./Figure/sistem_test_videosu.mp4)
-
-_(Video dosyası GitHub üzerinde oynatılamaz. eKampüs teslimi için zip dosyasına eklenmelidir.)_
+📹 [Sistem Çalışma Videosu (İzlemek için tıklayın)](https://www.youtube.com/shorts/-A3FBNeWkMM?feature=share)
+<br>
+(Not: LED'lerin videoda daha net görünebilmesi için sadece video çekimi sırasında LED'lere bağlı dirençler çıkarılmıştır.)
 <br><br>
 ## 5. Elde Edilen Sonuçlar
 
