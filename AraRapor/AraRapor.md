@@ -31,7 +31,7 @@ Projenin bu aşamasında temel donanımsal altyapı oluşturulmuş ve sistemin i
 
 ### 4.1 Kullanılan Parçalar
 
-| Parça | Görsel | Teknik Bilgi |a
+| Parça | Görsel | Teknik Bilgi |
 |:------|:-------:|:-------------|
 | Arduino Uno | ![Arduino Uno](./Figure/arduino-uno.jpg) | Dijital, aktif bir geliştirme kartıdır. Üzerindeki mikrodenetleyici (ATmega328P) sayesinde sensör ve çıkış birimlerini kontrol eder. 14 dijital I/O pini, 6 analog giriş pini bulunur. |
 | Mesafe Sensörü (HC-SR04) | ![Mesafe Sensörü](./Figure/Mesafe_Sensörü.jpg) | Dijital çıkış veren, aktif çalışan bir ultrasonik sensördür. 2-400 cm arasında mesafe ölçebilir. Çalışma prensibi ses dalgalarının yankı sürelerinin ölçülmesine dayanır. |
