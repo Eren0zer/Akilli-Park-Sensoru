@@ -35,7 +35,7 @@ Projenin bu aşamasında temel donanımsal altyapı oluşturulmuş ve sistemin i
 |:------|:-------:|:-------------|
 | Arduino Uno | ![Arduino Uno](./Figure/arduino-uno.jpg) | Dijital, aktif bir geliştirme kartıdır. Üzerindeki mikrodenetleyici (ATmega328P) sayesinde sensör ve çıkış birimlerini kontrol eder. 14 dijital I/O pini, 6 analog giriş pini bulunur. |
 | Mesafe Sensörü (HC-SR04) | ![Mesafe Sensörü](./Figure/Mesafe_Sensörü.jpg) | Dijital çıkış veren, aktif çalışan bir ultrasonik sensördür. 2-400 cm arasında mesafe ölçebilir. Çalışma prensibi ses dalgalarının yankı sürelerinin ölçülmesine dayanır. |
-| Kırmızı LED | ![Kırmızı LED](./Figure/Kırmızı_Led.jpg) | Pasif bir bileşendir. Dijital sinyalle sürülür. 2V civarında çalışır, düşük akımda görsel bildirim sağlar. |
+| Kırmızı LED | ![Kırmızı LED](./Figure/Kırmızı_Led.jpg) | Aktif bir bileşendir. Dijital sinyalle sürülür. 2V civarında çalışır, düşük akımda görsel bildirim sağlar. |
 | Buzzer | ![Buzzer](./Figure/Buzzer.jpg) | Aktif bir bileşendir. Dijital sinyal ile çalışır. Belirli bir voltaj verildiğinde kendi içinde ses üretir (harici sinyal gerekmez). |
 | Direnç | ![Direnç](./Figure/Direnc.jpg) | Pasif bir devre elemanıdır. Akımı sınırlamak ve devre elemanlarını korumak için kullanılır. 220 ohm dirençler LED koruması için uygundur. |
 | Breadboard | ![Breadboard](./Figure/Breadboard.jpg) | Pasif bir prototipleme elemanıdır. Lehimleme gerektirmeden devre kurulumu sağlar. |
