@@ -34,10 +34,15 @@ Bu yapı sayesinde sürücüler, engellerin mesafesini LED ve buzzer uyarıları
 | **LED & Buzzer** | Görsel ve işitsel uyarı birimleri. Kritik mesafe aralıklarında devreye girer. |
 | **ESP32-CAM** | Görüntü yakalama ve Wi-Fi üzerinden canlı yayın aktarımı için kullanıldı. JPEG formatında sıkıştırılmış görüntüler bir web sunucusu üzerinden yayınlandı. |
 | **Arduino IDE** | Hem Arduino hem de ESP32 için yazılım geliştirme ortamı olarak kullanıldı. |
-| **Arduino ESP32 Paket Linkleri** | ESP32'nin Arduino IDE’de tanınması için gerekli linkler:  
-  - `https://dl.espressif.com/dl/package_esp32_index.json`  
-  - `https://espressif.github.io/arduino-esp32/package_esp32_dev_index.json` |
-| **Referans Video** | ESP32 programlama aşamasında [şu videodan](https://www.youtube.com/watch?v=OB6rJCxA42o) yararlanıldı. |
+| **ESP32 Tanımlama** | ESP32'nin Arduino IDE’de tanınması için gerekli kurulum dosyaları aşağıda listelenmiştir. |
+
+### 🔗 ESP32 Arduino IDE Paket Linkleri
+
+- `https://dl.espressif.com/dl/package_esp32_index.json`  
+- `https://espressif.github.io/arduino-esp32/package_esp32_dev_index.json`
+
+📺 **Referans Video:** [ESP32 programlama aşamasında kullanılan video](https://www.youtube.com/watch?v=OB6rJCxA42o)
+
 
 ---
 
