@@ -79,9 +79,93 @@ Bu yapı sayesinde sürücüler, engellerin mesafesini LED ve buzzer uyarıları
 const char *ssid = "YOUR_WIFI_SSID";
 const char *password = "YOUR_WIFI_PASSWORD";
 ```
+## 🔌 ESP32-CAM Kurulum Aşaması
 
+ESP32-CAM modülünün kamera yayını için gerekli olan Wi-Fi bağlantısı ve görüntü erişimi aşağıdaki adımlar izlenerek sağlanmıştır.
+
+---
+
+### 1️⃣ Mobil Etkin Nokta Oluşturma
+
+İlk olarak bilgisayar üzerinden **Mobil Etkin Nokta** özelliği etkinleştirildi. Bu sayede ESP32-CAM modülü, bilgisayarın oluşturduğu Wi-Fi ağına bağlanabildi.
+
+<p align="center">
+  <img src="./Figure/etkin_nokta.jpg" width="400"/>
+</p>
+
+---
+
+### 2️⃣ ESP32'ye Atanan IP'yi Tespit Etme
+
+ESP32-CAM modülü Wi-Fi ağına başarıyla bağlandığında, ona otomatik olarak bir IP adresi atanır. Bu IP, mobil etkin nokta ayarları üzerinden kolayca görüntülenebilir.
+
+<p align="center">
+  <img src="./Figure/ip_ataması.jpg" width="400"/>
+</p>
+
+---
+
+### 3️⃣ ESP32-CAM Web Arayüzüne Erişim
+
+ESP32’yi yapılandırmak için herhangi bir tarayıcıdan IP adresine gidilir:  
+`http://192.168.137.250`
+
+Bu sayfada kamera ayarları yapılabilir ve canlı yayın başlatılabilir.
+
+<p align="center">
+  <img src="./Figure/kamera_ayarı.jpg" width="400"/>
+</p>
+
+---
+
+### 4️⃣ Kamera Görüntüsü ve Yayını Başlatma
+
+ESP32-CAM modülü başarılı şekilde çalıştığında, tarayıcı üzerinde anlık görüntü alınabilir. Görüntü kalitesi ayarlanabilir ve akış durdurulup başlatılabilir.
+
+<p align="center">
+  <img src="./Figure/final.jpg" width="400"/>
+</p>
+
+---
+
+📌 **Not:** Bu işlem sırasında ESP32-CAM kodu içerisinde SSID ve şifre tanımlaması şu şekilde yapılmıştır. Aynı kodu kullanmak istiyorsanız SSID'yi ve şifreyi bu şekilde düzenlemelisiniz:
+
+```cpp
+const char *ssid = "SUPERONLINE_WIFI_BTUBM";
+const char *password = "btubm2023";
+```
+---
 
 ### 4.4 Görseller ve Devre
+
+#### Devre Şeması
+
+<p align="center">
+  <img src="./Figure/Sema.jpg" width="400"/>
+</p>
+
+#### Donanım Kurulumu ve ESP32-CAM Entegrasyonu
+
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <div style="width: 200px; height: 200px; overflow: hidden; border: 1px solid #ccc; display: flex; align-items: center; justify-content: center;">
+    <img src="./Figure/Sistem_kurulumu_final1.jpg" style="height: 100%;"/>
+  </div>
+  <div style="width: 200px; height: 200px; overflow: hidden; border: 1px solid #ccc; display: flex; align-items: center; justify-content: center;">
+    <img src="./Figure/Sistem_kurulumu_final2.jpg" style="height: 100%;"/>
+  </div>
+  <div style="width: 200px; height: 200px; overflow: hidden; border: 1px solid #ccc; display: flex; align-items: center; justify-content: center;">
+    <img src="./Figure/Sistem_kurulumu_final3.jpg" style="height: 100%;"/>
+  </div>
+  <div style="width: 200px; height: 200px; overflow: hidden; border: 1px solid #ccc; display: flex; align-items: center; justify-content: center;">
+    <img src="./Figure/Sistem_kurulumu_final4.jpg" style="height: 100%;"/>
+  </div>
+</div>
+
+<p align="center" style="margin-top: 10px; font-size: 14px;">
+  Yukarıdaki görsellerde; Arduino, ultrasonik sensör, LED’ler ve buzzer’ın breadboard üzerine yerleştirildiği,<br>
+  ESP32-CAM modülünün ise kablolarla sisteme entegre edildiği nihai kurulum görülmektedir.
+</p>
+
 
 ---
 
