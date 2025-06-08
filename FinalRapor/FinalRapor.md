@@ -246,7 +246,7 @@ Geliştirilen bu akıllı park sensörü sistemi, düşük maliyeti, kolay kurul
 # Dosya Yapısı
 
 ```
-AraRapor/
+FinalRapor/
 │── FinalRapor.md
 │── Figure/
 │   ├── etkin_nokta.jpg
