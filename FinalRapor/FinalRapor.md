@@ -242,3 +242,21 @@ Geliştirilen bu akıllı park sensörü sistemi, düşük maliyeti, kolay kurul
 
  **Sonuç olarak:** Proje, hem bireysel kullanıcılar hem de kurumsal çözümler için ticarileştirilebilir, rekabetçi ve ölçeklenebilir bir üründür.
 
+
+# Dosya Yapısı
+
+```
+AraRapor/
+│── FinalRapor.md
+│── Figure/
+│   ├── etkin_nokta.jpg
+│   ├── final.jpg
+│   ├── ip_ataması.jpg
+│   ├── kamera_ayarı.jpg
+│   ├── Sistem_kurulum1.jpg
+│   ├── Sistem_kurulum2.jpg
+│   ├── Sistem_kurulum3.jpg
+│   ├── Sistem_kurulum4.jpg
+
+
+```
