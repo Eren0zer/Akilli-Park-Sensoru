@@ -1,7 +1,13 @@
 
 # 📌 Akıllı Park Sensörü Sistemi - Final Raporu
 
-
+## Grup Bilgileri
+**Grup 1**  
+İlhan Emre Adak  
+Sıdıka Firat  
+Eren Özer  
+Şevval Yavuz
+<br>
 ## 1. Proje Konusu
 
 Bu proje, araçların park ve manevra süreçlerinde sürücülere yardımcı olmak üzere geliştirilen düşük maliyetli, genişletilebilir ve modüler bir akıllı park sensörü sistemidir. Sistem iki ana bileşene dayanmaktadır:
