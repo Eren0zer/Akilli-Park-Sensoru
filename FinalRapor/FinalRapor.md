@@ -146,20 +146,20 @@ const char *password = "btubm2023";
 
 #### Donanım Kurulumu ve ESP32-CAM Entegrasyonu
 
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <div style="width: 200px; height: 200px; overflow: hidden; border: 1px solid #ccc; display: flex; align-items: center; justify-content: center;">
-    <img src="./Figure/Sistem_kurulumu_final1.jpg" style="height: 100%;"/>
-  </div>
-  <div style="width: 200px; height: 200px; overflow: hidden; border: 1px solid #ccc; display: flex; align-items: center; justify-content: center;">
-    <img src="./Figure/Sistem_kurulumu_final2.jpg" style="height: 100%;"/>
-  </div>
-  <div style="width: 200px; height: 200px; overflow: hidden; border: 1px solid #ccc; display: flex; align-items: center; justify-content: center;">
-    <img src="./Figure/Sistem_kurulumu_final3.jpg" style="height: 100%;"/>
-  </div>
-  <div style="width: 200px; height: 200px; overflow: hidden; border: 1px solid #ccc; display: flex; align-items: center; justify-content: center;">
-    <img src="./Figure/Sistem_kurulumu_final4.jpg" style="height: 100%;"/>
-  </div>
-</div>
+<table>
+  <tr align="center">
+    <th>Sistem Kurulum 1</th>
+    <th>Sistem Kurulum 2</th>
+    <th>Sistem Kurulum 3</th>
+    <th>Sistem Kurulum 4</th>
+  </tr>
+  <tr>
+    <td><img src="./Figure/Sistem_kurulumu_final1.jpg" width="200"/></td>
+    <td><img src="./Figure/Sistem_kurulumu_final2.jpg" width="200"/></td>
+    <td><img src="./Figure/Sistem_kurulumu_final3.jpg" width="200"/></td>
+    <td><img src="./Figure/Sistem_kurulumu_final4.jpg" width="200"/></td>
+  </tr>
+</table>
 
 <p align="center" style="margin-top: 10px; font-size: 14px;">
   Yukarıdaki görsellerde; Arduino, ultrasonik sensör, LED’ler ve buzzer’ın breadboard üzerine yerleştirildiği,<br>
